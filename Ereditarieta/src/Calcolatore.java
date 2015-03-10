@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+// ho aggiunto un commento per vederlo in github
 public class Calcolatore {
 	static FiguraGeometrica[] figura;
 	static Scanner scanner = new Scanner(System.in);
